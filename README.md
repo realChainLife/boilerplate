@@ -1,2 +1,1 @@
-# boilerplate
-Smart contract boilerplate and tooling
+[Wiki](https://github.com/realChainLife/boilerplate/wiki)
